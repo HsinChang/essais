@@ -19,6 +19,7 @@
 想必诸君生活中，也常常出现感情事体的传达像“给加西亚的信”一样棘手，导致「届かない」的情况，因为作为发送方的我们，对接收方的把握实在是十分有限。这种局限性的笼罩范围却几乎无限，哪怕是与最亲近的人之间也无法幸免。罗兰·米勒(Rowland Miller)在《亲密关系(Intimate Relationships)》中写到了这样的研究成果：
 
 > 我们对于他人的了解不一定会与日俱增。结婚时间较短的配偶在推测伴侣的心思方面，比婚龄更长的配偶更准确。试图了解对方的兴趣和动机，一定程度上决定了对对方的洞察程度和准确性，新近同居的人对对方的理解程度很可能已经是此生巅峰。更长时间的近距离接触，譬如婚姻，似乎会降低、而非增加对对方把握的准确性。
+
 > However, our perceptions of others don’t necessarily become more accurate as time goes by (Kenny et al., 2007). In fact, spouses who have been married for shorter lengths of time do better at inferring what their partners are thinking than spouses married longer do (Kilpatrick et al., 2002). The interest and motivation with which we try to figure each other out help to determine how insightful and accurate we will be (J. Smith et al., 2011), and people who have recently moved in with each other may understand each other as well as they ever will. Longer periods of very close contact, such as marriage, seem to gradually result in less, not more, accuracy as time goes by (Ickes, 2003).
 
 所以在两个人之间，时间和距离，都不是「届かない」的解药。同时，男女之间的事情，往往都可以推及到人类社会更广的层面。据《左传》所载，春秋时期士大夫在诸侯国外交场合，常常赋《诗经》中的情诗以言志。在欧洲中世纪，也有吟游诗人(troubadours)穿梭于各国宫廷以情歌诉说政事。当然，这种东西方共通的历史现象除了可以作为我碎碎念下一自然段的因子以外，也侧面印证了人类之间的「届く」有多么的复杂。
@@ -30,6 +31,7 @@
 
 83岁的托尔斯泰死于一场秘密的离家出走，最终因肺炎客死在阿斯塔波沃车站的站长室里。茨威格在《人类群星闪耀时》中通过续写托尔斯泰的遗作《光在黑暗中发亮》，把这场出走诠释为托尔斯泰对自己的作品与自己内心的世俗，自己的著述和从这个世界得到的反馈间，存在的那种不可调和的矛盾的反抗。也无怪加缪在获得诺贝尔奖的发言中说道：
 >如果作家的使命是团结尽可能多数的人，那就只有容忍谎言和奴性。这个世界充斥着谎言和奴性，孤独的荒草到处疯长。
+
 >Puisque sa vocation est de réunir le plus grand nombre d’hommes possible, elle ne peut s’accommoder du mensonge et de la servitude qui, là où ils règnent, font proliférer les solitudes.
 
 好，以加缪作结，诸君，我们暂停“错的不是我是这个世界(間違っていたのは俺じゃない。世界のほうだ)”的部分，来聊聊「届かない」的发信者自身。
