@@ -20,3 +20,15 @@
 
 > 我们对于他人的了解不一定会与日俱增。结婚时间较短的配偶在推测伴侣的心思方面，比婚龄更长的配偶更准确。试图了解对方的兴趣和动机，一定程度上决定了对对方的洞察程度和准确性，新近同居的人对对方的理解程度很可能已经是此生巅峰。更长时间的近距离接触，譬如婚姻，似乎会降低、而非增加对对方把握的准确性。
 > However, our perceptions of others don’t necessarily become more accurate as time goes by (Kenny et al., 2007). In fact, spouses who have been married for shorter lengths of time do better at inferring what their partners are thinking than spouses married longer do (Kilpatrick et al., 2002). The interest and motivation with which we try to figure each other out help to determine how insightful and accurate we will be (J. Smith et al., 2011), and people who have recently moved in with each other may understand each other as well as they ever will. Longer periods of very close contact, such as marriage, seem to gradually result in less, not more, accuracy as time goes by (Ickes, 2003).
+
+所以在两个人之间，时间和距离，都不是「届かない」的解药。同时，男女之间的事情，往往都可以推及到人类社会更广的层面。据《左传》所载，春秋时期士大夫在诸侯国外交场合，常常赋《诗经》中的情诗以言志。在欧洲中世纪，也有吟游诗人(troubadours)穿梭于各国宫廷以情歌诉说政事。当然，这种东西方共通的历史现象除了可以作为我碎碎念下一自然段的因子以外，也侧面印证了人类之间的「届く」有多么的复杂。
+
+我们若翻开中国历史，常能看到王朝由盛转衰也往往伴随着君民间「届かない」情况的逐渐增多。晚明时期，时任首辅王锡爵曾跟东林党领袖顾宪成吵了一架，王锡爵言“当今所最怪者，庙堂之是非，天下必欲反之。”，顾宪成则言“吾见天下之是非，庙堂必欲反之耳!”，由此可见其时政府与民间裂痕之大。这种君民间随着王朝发展日益加深的「届かない」也同样作用于了统治体制本身，在许多大一统王朝中我们都能观察到本来是皇权直接派出代表的监察官员地位升高逐步演变为地方官，出现了“监察侵蚀行政”的现象，汉之刺史、唐之按察使、明清之总督巡抚，莫不如是。我们难以简单总结这一现象是加速还是延缓了王朝的覆亡，但可以肯定的是，本来是因君主害怕国家真实情况对自己「届かない」而代行监察督核的这种官职，并没有扭转过一个王朝君民间愈来愈「届かない」直至覆亡的趋势。转而看亚欧大陆另一端，我们可以拿出波旁王朝的末代国王路易十六，其在位时曾试图废除农奴制、实行宗教宽容、放松市场管制，后来也召开了法兰西王国三级会议，但其怀柔也并没有避免其在法国大革命中被推上断头台。类似事体在欧洲史上亦不胜枚举，有名的，距此远有凯撒遇刺，近有英格兰查理一世的处决，暂不过多展开。
+
+这种接收方的局限性导致的「届かない」不止存在于社会整体，同样发生在社会与个体之间，哪怕是人类中最悲天悯人的那些灵魂也难幸免。鲁迅在《而已集·小杂感》中写道：
+> 楼下一个男人病得要死，那间壁的一家唱着留声机；对面是弄孩子。楼上有两人狂笑；还有打牌声。河中的船上有女人哭着她死去的母亲。人类的悲欢并不相通，我只觉得他们吵闹。
+83岁的托尔斯泰死于一场秘密的离家出走，最终因肺炎客死在阿斯塔波沃车站的站长室里。茨威格在《人类群星闪耀时》中通过续写托尔斯泰的遗作《光在黑暗中发亮》，把这场出走诠释为托尔斯泰对自己的作品与自己内心的世俗，自己的著述和从这个世界得到的反馈间，存在的那种不可调和的矛盾的反抗。也无怪加缪在获得诺贝尔奖的发言中说道：
+>如果作家的使命是团结尽可能多数的人，那就只有容忍谎言和奴性。这个世界充斥着谎言和奴性，孤独的荒草到处疯长。
+>Puisque sa vocation est de réunir le plus grand nombre d’hommes possible, elle ne peut s’accommoder du mensonge et de la servitude qui, là où ils règnent, font proliférer les solitudes.
+
+好，以加缪作结，诸君，我们暂停“错的不是我是这个世界(間違っていたのは俺じゃない。世界のほうだ)”的部分，来聊聊「届かない」的发信者自身。
